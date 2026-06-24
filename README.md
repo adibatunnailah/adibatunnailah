@@ -18,7 +18,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Project (Repositories) here](https://github.com/adibatunnailah?tab=repositories)
+### [🏆 Check Out My Project here]((https://adibatunnailah.github.io/))
       
 ## 🔭 What I'm Currently Working On 
 
